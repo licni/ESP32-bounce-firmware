@@ -22,4 +22,4 @@ OpenActiveSuspension(ESP32-C3 SuperMini)的韌體發布專案. 這裡只放編�
 
 每天只留當天最新一版,當天的修改都合併在那一版的說明裡.
 
-設計開發者:**SuperGG** · Line 社群:**RotorFlightTW**
+Designed By SuperGG
